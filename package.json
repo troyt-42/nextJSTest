@@ -1,0 +1,25 @@
+{
+  "name": "next-test",
+  "version": "0.0.1",
+  "description": "A project used to play with next.js",
+  "license": "MIT",
+  "keywords": [
+    "nextjs"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watrool/nextJSTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watrool/nextJSTest.git/issues"
+  },
+  "dependencies": {
+    "next": "^1.1.2"
+  }
+}
